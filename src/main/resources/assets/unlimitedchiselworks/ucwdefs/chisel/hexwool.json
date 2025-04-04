@@ -1,0 +1,72 @@
+{
+  "blocks": [
+    {
+      "from": {
+        "state": "botany:stained"
+      },
+      "through": {
+        "block": "chisel:glassdyedwhite",
+        "iterate": [
+          "variation"
+        ]
+      },
+      "custom_block_class": "pl.asie.ucw.BlockUCWBotanyGlass",
+      "custom_item_class": "pl.asie.ucw.ItemUCWBotanyGlass",
+      "custom_color_class": "pl.asie.ucw.UCWBotanyGlassColorMultiplier",
+      "based_upon": {
+        "state": "minecraft:stained_glass#color=white"
+      }
+    },
+    {
+      "from": {
+        "state": "hexwool:colored_concrete"
+      },
+      "through": {
+        "block": "chisel:concrete_white",
+        "iterate": [
+          "variation"
+        ]
+      },
+      "custom_block_class": "pl.asie.ucw.BlockUCWBotanyCeramic",
+      "custom_item_class": "pl.asie.ucw.ItemUCWBotanyCeramic",
+      "custom_color_class": "pl.asie.ucw.UCWBotanyGlassColorMultiplier",
+      "based_upon": {
+        "state": "minecraft:concrete#color=white"
+      }
+    },
+    {
+      "from": {
+        "state": "hexwool:colored_concrete"
+      },
+      "through": {
+        "block": "chisel:concrete_white1",
+        "iterate": [
+          "variation"
+        ]
+      },
+      "custom_block_class": "pl.asie.ucw.BlockUCWBotanyCeramic",
+      "custom_item_class": "pl.asie.ucw.ItemUCWBotanyCeramic",
+      "custom_color_class": "pl.asie.ucw.UCWBotanyGlassColorMultiplier",
+      "based_upon": {
+        "state": "minecraft:concrete#color=white"
+      }
+    },
+    {
+      "from": {
+        "state": "hexwool:colored_concrete"
+      },
+      "through": {
+        "block": "chisel:concrete_white2",
+        "iterate": [
+          "variation"
+        ]
+      },
+      "custom_block_class": "pl.asie.ucw.BlockUCWBotanyCeramic",
+      "custom_item_class": "pl.asie.ucw.ItemUCWBotanyCeramic",
+      "custom_color_class": "pl.asie.ucw.UCWBotanyGlassColorMultiplier",
+      "based_upon": {
+        "state": "minecraft:concrete#color=white"
+      }
+    }
+  ]
+}
