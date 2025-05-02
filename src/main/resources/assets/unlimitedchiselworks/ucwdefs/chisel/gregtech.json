@@ -7,9 +7,7 @@
       },
       "through": {
         "block": "chisel:cobblestone",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -21,9 +19,7 @@
       },
       "through": {
         "block": "chisel:cobblestone",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -35,9 +31,7 @@
       },
       "through": {
         "block": "chisel:cobblestone",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -49,9 +43,7 @@
       },
       "through": {
         "block": "chisel:cobblestone",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -63,9 +55,7 @@
       },
       "through": {
         "block": "chisel:cobblestone",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -77,9 +67,7 @@
       },
       "through": {
         "block": "chisel:cobblestone",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -91,9 +79,7 @@
       },
       "through": {
         "block": "chisel:cobblestone1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -105,9 +91,7 @@
       },
       "through": {
         "block": "chisel:cobblestone1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -119,9 +103,7 @@
       },
       "through": {
         "block": "chisel:cobblestone1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -133,9 +115,7 @@
       },
       "through": {
         "block": "chisel:cobblestone1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -147,9 +127,7 @@
       },
       "through": {
         "block": "chisel:cobblestone1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -161,9 +139,7 @@
       },
       "through": {
         "block": "chisel:cobblestone1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -175,9 +151,7 @@
       },
       "through": {
         "block": "chisel:cobblestone2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -189,9 +163,7 @@
       },
       "through": {
         "block": "chisel:cobblestone2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -203,9 +175,7 @@
       },
       "through": {
         "block": "chisel:cobblestone2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -217,9 +187,7 @@
       },
       "through": {
         "block": "chisel:cobblestone2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -231,9 +199,7 @@
       },
       "through": {
         "block": "chisel:cobblestone2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -245,9 +211,7 @@
       },
       "through": {
         "block": "chisel:cobblestone2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:cobblestone"
@@ -259,9 +223,7 @@
       },
       "through": {
         "block": "chisel:stonebrick",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -273,9 +235,7 @@
       },
       "through": {
         "block": "chisel:stonebrick",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -287,9 +247,7 @@
       },
       "through": {
         "block": "chisel:stonebrick",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -301,9 +259,7 @@
       },
       "through": {
         "block": "chisel:stonebrick",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -315,9 +271,7 @@
       },
       "through": {
         "block": "chisel:stonebrick",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -329,9 +283,7 @@
       },
       "through": {
         "block": "chisel:stonebrick",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -343,9 +295,7 @@
       },
       "through": {
         "block": "chisel:stonebrick1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -357,9 +307,7 @@
       },
       "through": {
         "block": "chisel:stonebrick1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -371,9 +319,7 @@
       },
       "through": {
         "block": "chisel:stonebrick1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -385,9 +331,7 @@
       },
       "through": {
         "block": "chisel:stonebrick1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -399,9 +343,7 @@
       },
       "through": {
         "block": "chisel:stonebrick1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -413,9 +355,7 @@
       },
       "through": {
         "block": "chisel:stonebrick1",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -427,9 +367,7 @@
       },
       "through": {
         "block": "chisel:stonebrick2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -441,9 +379,7 @@
       },
       "through": {
         "block": "chisel:stonebrick2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -455,9 +391,7 @@
       },
       "through": {
         "block": "chisel:stonebrick2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -469,9 +403,7 @@
       },
       "through": {
         "block": "chisel:stonebrick2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -483,9 +415,7 @@
       },
       "through": {
         "block": "chisel:stonebrick2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
@@ -497,14 +427,12 @@
       },
       "through": {
         "block": "chisel:stonebrick2",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
-      },
-     
+      }
+    },
     {
       "from": {
         "state": "gregtech:planks"
@@ -512,13 +440,11 @@
       "mode": "plank",
       "through": {
         "block": "chisel:planks-oak",
-        "iterate": [
-          "variation"
-        ]
+        "iterate": ["variation"]
       },
       "based_upon": {
         "state": "minecraft:planks#variant=oak"
-      }}
+      }
     }
   ]
 }
