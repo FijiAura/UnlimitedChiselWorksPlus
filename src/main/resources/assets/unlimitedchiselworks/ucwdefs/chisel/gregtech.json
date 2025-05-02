@@ -504,7 +504,7 @@
       "based_upon": {
         "state": "minecraft:stonebrick#variant=stonebrick"
       },
-      blocks": [
+     
     {
       "from": {
         "state": "gregtech:planks"
@@ -518,7 +518,7 @@
       },
       "based_upon": {
         "state": "minecraft:planks#variant=oak"
-      }
+      }}
     }
   ]
 }
